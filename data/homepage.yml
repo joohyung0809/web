@@ -35,7 +35,7 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com" # TODO: linkedin 추가
   image:
-    x: "https://www.topcit.or.kr/upload/member/member/2023/04/168117397855930331.jpg" # TODO: 프로필 이미지 주소 변경
+    x: "img/who-am-i/user-picture.png" # TODO: 프로필 이미지 주소 변경
     _2x: "img/who-am-i/user-picture@2x.png"
 
 # education
@@ -83,7 +83,7 @@ contact:
     method: "POST"
     action: "#"
     full_name: "Full Name"
-    email: "joohyung0809@naver.com"
+    email: "Email Address"
     message: "Type Your Message Here"
   email:
     title: "Email"
